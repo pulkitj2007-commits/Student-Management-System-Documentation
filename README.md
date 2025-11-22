@@ -1,4 +1,3 @@
-README.md
 # Student Management System (Python)
 
 ## 📌 Project Overview
